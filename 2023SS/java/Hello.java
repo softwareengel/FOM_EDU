@@ -1,5 +1,5 @@
 class C {
-
+     int i =1 ;// test checkin vscode.dev + codespaces
 }
 public class SumOfMultiples {
 
