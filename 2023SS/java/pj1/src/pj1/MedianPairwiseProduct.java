@@ -1,7 +1,7 @@
 package pj1;
 import java.util.Arrays;
 
-public class Main {
+public class MedianPairwiseProduct {
     public static void main(String[] args) {
         int n = 1000003;
         int[] sequence = generateSequence(n);

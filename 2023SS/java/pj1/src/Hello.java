@@ -1,4 +1,4 @@
-package pj1;
+
 class C {
      int i =1 ;// test checkin vscode.dev + codespaces
 }

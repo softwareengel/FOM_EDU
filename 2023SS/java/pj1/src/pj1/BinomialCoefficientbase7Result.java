@@ -22,7 +22,7 @@ import java.math.BigInteger;
  * @author engels
  *
  */
-public class Main1 {
+public class BinomialCoefficientbase7Result {
 	public static void main(String[] args) {
 		int m = 142857;
 		BigInteger result = BigInteger.ZERO;
