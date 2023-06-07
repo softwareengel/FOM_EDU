@@ -14,6 +14,10 @@ package pj1;
  */
 public class FibonacciSum {
 	public static void main(String[] args) {
+		fibSum();
+	}
+
+	private static void fibSum() {
 		int limit = 4000000;
 		int sum = 0;
 		int previousTerm = 1;
