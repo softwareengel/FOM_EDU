@@ -1,8 +1,6 @@
 # Labortag IIT 
 
-# Download Dateien 
-
-# IIT Labor Files 
+# IIT Labor Dateien zum Download 
 
 - [ssh](files/ssh): Leere Datei mit Dateinamen ssh 
 - [userconf.txt](files/userconf.txt) : Datei mit einem User 
